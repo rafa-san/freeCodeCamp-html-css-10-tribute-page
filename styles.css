@@ -108,6 +108,50 @@ a:hover {
   text-decoration: underline;
 }
 
+
+/* FOOTER */
+footer {
+  background-color: var(--cor2);
+  color: var(--cor1);
+  padding: 40px 8px;
+  text-align: center;
+  width: 100%;
+}
+
+footer p {
+  color: #fff;
+  font-size: 1.1em;
+  font-weight: 800;
+  text-align: center;
+  letter-spacing: 1.5px;
+}
+
+.contato {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  margin: 16px 0;
+}
+
+.fa-github,
+.fa-linkedin {
+  color: #fff;
+  font-size: 1.2em;
+  transition: 0.3s ease-out;
+}
+
+.fa-github:hover,
+.fa-linkedin:hover {
+  transform: translateY(6px); 
+}
+
+.texto-icone {
+  color: #fff;;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1.1em;
+  word-spacing: 2px;
+}
+
 @media (min-width: 768px) {
   .texto {
     flex-direction: row;
