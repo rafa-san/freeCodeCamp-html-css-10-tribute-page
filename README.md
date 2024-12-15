@@ -1,6 +1,6 @@
 ![Badge](https://img.shields.io/badge/freeCodeCamp-BB2649?style=for-the-badge)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" />&nbsp;&nbsp;&nbsp;![Badge](https://img.shields.io/badge/PROJETO-PRÓPRIO-FF6F61?style=for-the-badge)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
 
-# Responsive Web Design Certification | Certification Project 02
+# Responsive Web Design Certification | Certification Project #02
 
 ## 1️⃣ Objetivo
 Desenvolver uma página de tributo a uma pessoa de sua escolha, real ou fictícia, utilizando o exemplo fornecido pela plataforma como referência.
@@ -8,7 +8,9 @@ Desenvolver uma página de tributo a uma pessoa de sua escolha, real ou fictíci
 ## 2️⃣ Descrição
 Este é o segundo desafio no formato **Certification Project** da trilha **Responsive Web Design Certification**
 
-Os **Certification Project** exigem que o desenvolvimento seja realizado de forma independente, sem mentoria direta. Para que o projeto seja aprovado, é necessário cumprir critérios específicos estabelecidos pela plataforma, principalmente relacionados à estrutura HTML. No entanto, há total liberdade para criar o design (CSS), permitindo dar um toque pessoal à página.
+Os **Certification Project** exigem que o desenvolvimento seja realizado de forma independente, sem mentoria direta.
+
+Para que o projeto seja aprovado, é necessário cumprir critérios específicos estabelecidos pela plataforma, principalmente relacionados à estrutura HTML. No entanto, há total liberdade para criar o design (CSS), permitindo dar um toque pessoal à página.
 
 O principal objetivo desse formato é consolidar os conhecimentos adquiridos ao longo dos cursos anteriores, proporcionando uma experiência prática bastante significativa.
 
@@ -18,7 +20,7 @@ Seguindo as diretrizes do **freeCodeCamp**, este projeto foi desenvolvido de for
 ## 3️⃣ Principais Modificações
 No exemplo original fornecido pelo **freeCodeCamp**, a página homenageia Dr. Norman Borlaug (1914–2009), um renomado agrônomo e biólogo americano conhecido como o "pai da Revolução Verde".
 
-Na minha versão, optei por homenagear Ernest Shackleton e sua fascinante expedição à Antártida, uma história repleta de coragem e resiliência que merece ser conhecida.
+Na minha versão, optei por homenagear Ernest Shackleton (1874 - 1922) e sua fascinante expedição à Antártida, uma história repleta de coragem e resiliência que merece ser conhecida.
 
 Principais destaques da minha página:
 
@@ -39,7 +41,7 @@ Principais destaques da minha página:
 </div>
 
 ## 5️⃣ Créditos
-Agradeço ao freeCodeCamp por oferecer cursos gratuitos de altíssima qualidade, que não apenas ampliaram meus conhecimentos, mas também contribuíram muito para a construção do meu portfólio.
+Agradeço ao **freeCodeCamp** por oferecer cursos gratuitos de altíssima qualidade, que não apenas ampliaram meus conhecimentos, mas também contribuíram muito para a construção do meu portfólio.
 - <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp 🔗</a>
 
 Tutoriais consultados: 
